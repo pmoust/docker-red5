@@ -3,6 +3,8 @@ pmoust/red5
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pmoust/docker-red5?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pmoust/docker-red5?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Red5 is an Open Source Flash Server written in Java that supports:
 
  * Streaming Video (FLV, F4V, MP4, 3GP)
